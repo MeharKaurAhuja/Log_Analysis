@@ -22,16 +22,16 @@ all of the articles each author has written, which authors get the most page vie
 Present this as a sorted list with the most popular author at the top.
 
 Example:
--Ursula La Multa — 2304 views
--Rudolf von Treppenwitz — 1985 views
--Markoff Chaney — 1723 views
+- Ursula La Multa — 2304 views
+- Rudolf von Treppenwitz — 1985 views
+- Markoff Chaney — 1723 views
 
 3. **On which days did more than 1% of requests lead to errors?**  The log table
 includes a column status that indicates the HTTP status code that the news site sent
 to the user's browser.
 
 Example:
--July 29, 2016 — 2.5% errors
+- July 29, 2016 — 2.5% errors
 
 ## How to Run?
 This project is run in a virtual machine that is created using Vagrant. Hence, there are some steps
