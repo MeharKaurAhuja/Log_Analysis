@@ -1,6 +1,6 @@
 # Log_Analysis
-Udacity Project3
-Log-Analysis is the third project of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+- Udacity Project3
+- Log-Analysis is the third project of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
 ### Project Overview
 The task is that we need to create a reporting tool which prints the reports (in plain text)
@@ -13,9 +13,9 @@ accessed the most? Present this information as a sorted list with the most popul
 article at the top.
 
 Example:
--"Princess Shellfish Marries Prince Handsome" — 1201 views
--"Baltimore Ravens Defeat Rhode Island Shoggoths" — 915 views
--"Political Scandal Ends In Political Scandal" — 553 views
+- "Princess Shellfish Marries Prince Handsome" — 1201 views
+- "Baltimore Ravens Defeat Rhode Island Shoggoths" — 915 views
+- "Political Scandal Ends In Political Scandal" — 553 views
 
 2. **Who are the most popular article authors of all time?** That is, when you sum up
 all of the articles each author has written, which authors get the most page views?
