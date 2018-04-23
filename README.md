@@ -100,6 +100,6 @@ Generating this information will take several seconds, but will now start loadin
     Rudolf von Treppenwitz -- 423457 views
     Anonymous Contributor -- 170098 views
 
-   c) DAYS WITH MORE THAN 1% ERRORS:
+    c) DAYS WITH MORE THAN 1% ERRORS:
 
-   2016-07-17 -- 2.26 % errors
+    2016-07-17 -- 2.26 % errors
